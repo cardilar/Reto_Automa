@@ -15,5 +15,5 @@ Feature: Compra de ropa en Your Logo
 			Examples: 
 |Correo|Nombre|Apellido|Clave|Dia|Mes|Ano|Direccion|Ciudad|Estado|CodigoPostal|Telefono|Mensaje|	
 ##@externaldata@C:\Datos\Data.xlsx@prueba
-|jymmie.fox@hg.com|Jymmie|Fox|jfiw122|28|7|1980|Street 11|Michigan|17|00000|7658908989|Your order on My Store is complete.|
-|car.sagam@hg.com|Geroge|Carlson|csa124|11|12|1985|Main Street 71|Belmont|22|00000|2134123412|Your order on My Store is complete.|
+|jymmie.fox1@hg.com|Jymmie|Fox|jfiw122|28|7|1980|Street 11|Michigan|17|00000|7658908989|Your order on My Store is complete.|
+|car.sagam1@hg.com|Geroge|Carlson|csa124|11|12|1985|Main Street 71|Belmont|22|00000|2134123412|Your order on My Store is complete.|
